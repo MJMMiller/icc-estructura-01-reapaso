@@ -17,19 +17,9 @@ public class Persona {
      * @param edad   Edad de la persona.
      */
     public Persona(String nombre, int edad) {
-        this.nombre = nombre; // Asigna el nombre pasado al atributo nombre de la clase
+        this.nombre = nombre;
         this.edad = edad; // Asigna la edad pasada al atributo edad de la clase
     }
-
-    
-
-    /**
-     * Método para obtener la representación en cadena de texto de una instancia de
-     * Persona.
-     * 
-     * @return Representación en String de la persona, mostrando su nombre y edad.
-     */
-
 
     @Override
     public String toString() {
