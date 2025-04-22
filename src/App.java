@@ -21,7 +21,7 @@ public class App {
 
         ViewConsole vC = new ViewConsole();
         vC.printPersonaArray(personas);
-        System.out.println("-------------------------");
+        System.out.println("------------------------");
 
         System.out.println("Ordenar personas por edad");
 
