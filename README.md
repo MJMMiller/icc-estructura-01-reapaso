@@ -1,6 +1,3 @@
-
-
-
 # Sistema de Gestión de Personas
 
 ## Descripción
